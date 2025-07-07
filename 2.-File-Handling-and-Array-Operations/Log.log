@@ -1,0 +1,35 @@
+2025-07-05 22:48:34,959 - INFO - FileProcessor inicializado con ruta base: .
+2025-07-05 22:48:34,960 - ERROR - El archivo '.\prueba.csv' no existe
+2025-07-05 22:48:45,260 - INFO - FileProcessor inicializado con ruta base: .
+2025-07-05 22:48:45,261 - ERROR - El archivo '.\prueba.csv' no existe
+2025-07-05 22:52:25,828 - INFO - FileProcessor inicializado con ruta base: .
+2025-07-05 22:52:25,829 - ERROR - El archivo '.\./samples/prueba.csv' no existe
+2025-07-05 22:52:57,931 - INFO - FileProcessor inicializado con ruta base: .
+2025-07-05 22:52:58,044 - INFO - Análisis exitoso del archivo CSV './samples/prueba.csv'
+2025-07-05 22:54:31,402 - INFO - FileProcessor inicializado con ruta base: .
+2025-07-05 22:54:31,554 - INFO - Análisis exitoso del archivo CSV './samples/prueba.csv'
+2025-07-05 22:54:31,833 - ERROR - Error al extraer imagen del DICOM './samples/prueba.dcm': Cannot handle this data type: (1, 1, 512), |u1
+2025-07-05 22:54:31,833 - INFO - Lectura exitosa del archivo DICOM './samples/prueba.dcm'
+2025-07-05 22:57:42,067 - INFO - FileProcessor inicializado con ruta base: .
+2025-07-05 22:57:42,216 - INFO - Análisis exitoso del archivo CSV './samples/prueba.csv'
+2025-07-05 22:57:42,799 - INFO - Imagen DICOM extraída exitosamente: ./samples/prueba_imagen.png
+2025-07-05 22:57:42,799 - INFO - Lectura exitosa del archivo DICOM './samples/prueba.dcm'
+2025-07-05 23:01:13,691 - INFO - FileProcessor inicializado con ruta base: .
+2025-07-05 23:01:13,729 - INFO - Análisis exitoso del archivo CSV './samples/prueba.csv'
+2025-07-05 23:01:13,949 - ERROR - Error al crear imagen PIL: [Errno 2] No such file or directory: '.\\imagenes_extraidas\\./samples/prueba_imagen.png'
+2025-07-05 23:01:13,949 - ERROR - Error al guardar datos numpy: [Errno 2] No such file or directory: '.\\imagenes_extraidas\\./samples/prueba_datos.npy'
+2025-07-05 23:01:13,950 - INFO - Lectura exitosa del archivo DICOM './samples/prueba.dcm'
+2025-07-05 23:02:05,851 - INFO - FileProcessor inicializado con ruta base: .
+2025-07-05 23:02:06,023 - INFO - Análisis exitoso del archivo CSV './samples/prueba.csv'
+2025-07-05 23:02:06,365 - INFO - Imagen DICOM extraída exitosamente: .\imagenes_extraidas\prueba_imagen.png
+2025-07-05 23:02:06,366 - INFO - Lectura exitosa del archivo DICOM './samples/prueba.dcm'
+2025-07-05 23:04:23,169 - INFO - FileProcessor inicializado con ruta base: .
+2025-07-05 23:04:23,324 - INFO - Análisis exitoso del archivo CSV './samples/prueba.csv'
+2025-07-05 23:04:23,739 - INFO - Imagen DICOM extraída exitosamente: .\imagenes_extraidas\prueba_imagen.png
+2025-07-05 23:04:23,740 - INFO - Lectura exitosa del archivo DICOM './samples/prueba.dcm'
+2025-07-05 23:07:09,050 - INFO - FileProcessor inicializado con ruta base: .
+2025-07-05 23:07:09,062 - INFO - Listado exitoso de '.\.': 8 elementos
+2025-07-05 23:08:11,811 - INFO - FileProcessor inicializado con ruta base: .
+2025-07-05 23:08:11,815 - INFO - Listado exitoso de '.\samples': 4 elementos
+2025-07-05 23:16:13,627 - INFO - FileProcessor inicializado con ruta base: .
+2025-07-05 23:16:13,632 - INFO - Listado exitoso de '.\samples': 4 elementos
